@@ -2,9 +2,9 @@
 
 • Project done by Justine George & Ardra S Joy, BTech 2nd year NITC students
 
-• Special mention to our mentor, Mr. Pranoy, who helped us when we had doubts.
+• Special mention to our mentor, Mr. Pranoy.
 
 
-• Program is trained atfirst using dataset in Dataset folder, containing 8 categories. (face_extraction_preProcessing.py)
+• Program is trained using the dataset in Dataset folder, which contains 8 categories. (face_extraction_preProcessing.py)
 
-• Later, add new images into toBePredicted Folder and run predictNewImage.py to predict its category.
+• Now add new images in toBePredicted folder and run predictNewImage.py to predict its category.
