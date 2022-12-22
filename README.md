@@ -1,6 +1,6 @@
 # Facial recognition Internship Project - keras framework utilising tensorflow backend.
 
-• Project done by Justine George & Ardra S Joy, BTech 2nd year NITC students
+• Project done by Justine George & Ardra S Joy.
 
 • Special mention to our mentor, Mr. Pranoy.
 
