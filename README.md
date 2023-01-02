@@ -1,4 +1,4 @@
-# Facial recognition Internship Project - keras framework utilising tensorflow backend.
+# Facial recognition Internship Project - Keras framework utilising tensorflow.
 
 • Project done by Justine George & Ardra S Joy.
 
